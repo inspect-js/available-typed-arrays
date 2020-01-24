@@ -1,0 +1,37 @@
+{
+	"name": "available-typed-arrays",
+	"version": "0.0.0",
+	"description": "Returns an array of Typed Array names that are available in the current environment",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/inspect-js/available-typed-arrays.git"
+	},
+	"keywords": [
+		"typed",
+		"arrays",
+		"Float32Array",
+		"Float64Array",
+		"Int8Array",
+		"Int16Array",
+		"Int32Array",
+		"Uint8Array",
+		"Uint8ClampedArray",
+		"Uint16Array",
+		"Uint32Array",
+		"BigInt64Array",
+		"BigUint64Array"
+	],
+	"author": "Jordan Harband <ljharb@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/inspect-js/available-typed-arrays/issues"
+	},
+	"homepage": "https://github.com/inspect-js/available-typed-arrays#readme",
+	"engines": {
+		"node": ">= 0.4"
+	}
+}
