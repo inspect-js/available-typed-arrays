@@ -3,6 +3,18 @@
 	"version": "1.0.0",
 	"description": "Returns an array of Typed Array names that are available in the current environment",
 	"main": "index.js",
+	"type": "commonjs",
+	"exports": {
+		".": [
+			{
+				"require": "./index.js",
+				"default": "./index.js"
+			},
+			"./index.js"
+		],
+		"./package": "./package.json",
+		"./package.json": "./package.json"
+	},
 	"scripts": {
 		"prepublish": "safe-publish-latest",
 		"prelint": "evalmd README.md",
