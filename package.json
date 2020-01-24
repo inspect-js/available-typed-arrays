@@ -4,7 +4,9 @@
 	"description": "Returns an array of Typed Array names that are available in the current environment",
 	"main": "index.js",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"version": "auto-changelog && git add CHANGELOG.md",
+		"postversion": "auto-changelog && git add CHANGELOG.md && git commit --no-edit --amend && git tag -f \"v$(node -e \"console.log(require('./package.json').version)\")\""
 	},
 	"repository": {
 		"type": "git",
@@ -36,5 +38,15 @@
 	"homepage": "https://github.com/inspect-js/available-typed-arrays#readme",
 	"engines": {
 		"node": ">= 0.4"
+	},
+	"devDependencies": {
+		"auto-changelog": "^1.16.2"
+	},
+	"auto-changelog": {
+		"output": "CHANGELOG.md",
+		"template": "keepachangelog",
+		"unreleased": false,
+		"commitLimit": false,
+		"backfillLimit": false
 	}
 }
