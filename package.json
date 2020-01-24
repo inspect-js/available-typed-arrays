@@ -57,5 +57,8 @@
 		"unreleased": false,
 		"commitLimit": false,
 		"backfillLimit": false
+	},
+	"dependencies": {
+		"array-filter": "^1.0.0"
 	}
 }
