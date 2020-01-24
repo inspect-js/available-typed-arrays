@@ -4,6 +4,7 @@
 	"description": "Returns an array of Typed Array names that are available in the current environment",
 	"main": "index.js",
 	"scripts": {
+		"prepublish": "safe-publish-latest",
 		"prelint": "evalmd README.md",
 		"lint": "eslint .",
 		"pretest": "npm run lint",
@@ -51,6 +52,7 @@
 		"eslint": "^6.8.0",
 		"evalmd": "^0.0.19",
 		"isarray": "^2.0.5",
+		"safe-publish-latest": "^1.1.4",
 		"tape": "^5.0.0-next.4"
 	},
 	"auto-changelog": {
