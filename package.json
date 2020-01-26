@@ -7,7 +7,6 @@
 	"exports": {
 		".": [
 			{
-				"require": "./index.js",
 				"default": "./index.js"
 			},
 			"./index.js"
