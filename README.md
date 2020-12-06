@@ -1,6 +1,5 @@
 # available-typed-arrays <sup>[![Version Badge][2]][1]</sup>
 
-[![Build Status][3]][4]
 [![dependency status][5]][6]
 [![dev dependency status][7]][8]
 [![License][license-image]][license-url]
@@ -36,8 +35,6 @@ Simply clone the repo, `npm install`, and run `npm test`
 
 [1]: https://npmjs.org/package/available-typed-arrays
 [2]: http://versionbadg.es/inspect-js/available-typed-arrays.svg
-[3]: https://travis-ci.org/inspect-js/available-typed-arrays.svg
-[4]: https://travis-ci.org/inspect-js/available-typed-arrays
 [5]: https://david-dm.org/inspect-js/available-typed-arrays.svg
 [6]: https://david-dm.org/inspect-js/available-typed-arrays
 [7]: https://david-dm.org/inspect-js/available-typed-arrays/dev-status.svg
