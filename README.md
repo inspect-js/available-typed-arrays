@@ -34,13 +34,13 @@ assert.deepStrictEqual(availableTypedArrays(), [
 Simply clone the repo, `npm install`, and run `npm test`
 
 [1]: https://npmjs.org/package/available-typed-arrays
-[2]: http://versionbadg.es/inspect-js/available-typed-arrays.svg
+[2]: https://versionbadg.es/inspect-js/available-typed-arrays.svg
 [5]: https://david-dm.org/inspect-js/available-typed-arrays.svg
 [6]: https://david-dm.org/inspect-js/available-typed-arrays
 [7]: https://david-dm.org/inspect-js/available-typed-arrays/dev-status.svg
 [8]: https://david-dm.org/inspect-js/available-typed-arrays#info=devDependencies
 [11]: https://nodei.co/npm/available-typed-arrays.png?downloads=true&stars=true
-[license-image]: http://img.shields.io/npm/l/available-typed-arrays.svg
+[license-image]: https://img.shields.io/npm/l/available-typed-arrays.svg
 [license-url]: LICENSE
-[downloads-image]: http://img.shields.io/npm/dm/available-typed-arrays.svg
-[downloads-url]: http://npm-stat.com/charts.html?package=available-typed-arrays
+[downloads-image]: https://img.shields.io/npm/dm/available-typed-arrays.svg
+[downloads-url]: https://npm-stat.com/charts.html?package=available-typed-arrays
