@@ -79,6 +79,6 @@
 		"hideCredit": true
 	},
 	"dependencies": {
-		"array-filter": "^1.0.0"
+		"array.prototype.filter": "^1.0.0"
 	}
 }

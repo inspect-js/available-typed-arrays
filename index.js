@@ -1,6 +1,6 @@
 'use strict';
 
-var filter = require('array-filter');
+var filter = require('array.prototype.filter');
 
 module.exports = function availableTypedArrays() {
 	return filter([
