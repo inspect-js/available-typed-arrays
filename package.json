@@ -77,8 +77,5 @@
 		"commitLimit": false,
 		"backfillLimit": false,
 		"hideCredit": true
-	},
-	"dependencies": {
-		"array.prototype.filter": "^1.0.0"
 	}
 }
