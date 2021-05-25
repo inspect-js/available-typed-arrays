@@ -5,6 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.0.4](https://github.com/inspect-js/available-typed-arrays/compare/v1.0.3...v1.0.4) - 2021-05-25
+
+### Commits
+
+- [Refactor] Remove `array.prototype.filter` dependency [`f39c90e`](https://github.com/inspect-js/available-typed-arrays/commit/f39c90ecb1907de28ee2d3577b7da37ae12aac56)
+- [Dev Deps] update `eslint`, `auto-changelog` [`b2e3a03`](https://github.com/inspect-js/available-typed-arrays/commit/b2e3a035e8cd3ddfd7b565249e1651c6419a34d0)
+- [meta] create `FUNDING.yml` [`8c0e758`](https://github.com/inspect-js/available-typed-arrays/commit/8c0e758c6ec80adbb3770554653cdc3aa16beb55)
+- [Tests] fix harmony test matrix [`ef96549`](https://github.com/inspect-js/available-typed-arrays/commit/ef96549df171776267529413240a2219cb59d5ce)
+- [meta] add `sideEffects` flag [`288cca0`](https://github.com/inspect-js/available-typed-arrays/commit/288cca0fbd214bec706447851bb8bccc4b899a48)
+
 ## [v1.0.3](https://github.com/inspect-js/available-typed-arrays/compare/v1.0.2...v1.0.3) - 2021-05-19
 
 ### Commits

@@ -1,6 +1,6 @@
 {
 	"name": "available-typed-arrays",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "Returns an array of Typed Array names that are available in the current environment",
 	"main": "index.js",
 	"type": "commonjs",
