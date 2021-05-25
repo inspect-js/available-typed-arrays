@@ -36,7 +36,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [Dev Deps] update `@ljharb/eslint-config` [`9579abe`](https://github.com/inspect-js/available-typed-arrays/commit/9579abecc196088561d3aedf27cad45b56f8e18b)
 - [Fix] remove `require` condition to avoid experimental warning [`2cade6b`](https://github.com/inspect-js/available-typed-arrays/commit/2cade6b56d6a508a950c7da27d038bee496e716b)
 
-## v1.0.1 - 2020-01-24
+## [v1.0.1](https://github.com/inspect-js/available-typed-arrays/compare/v1.0.0...v1.0.1) - 2020-01-24
+
+### Commits
+
+- [meta] add "exports" [`5942917`](https://github.com/inspect-js/available-typed-arrays/commit/5942917aafb56c6bce80f01b7ae6a9b46bc72c69)
+
+## v1.0.0 - 2020-01-24
 
 ### Commits
 
@@ -46,7 +52,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Tests [`b539830`](https://github.com/inspect-js/available-typed-arrays/commit/b539830c3213f90de42b4d6e62803f52daf61a6d)
 - Implementation [`6577df2`](https://github.com/inspect-js/available-typed-arrays/commit/6577df244ea146ef5ec16858044c8955e0fc445c)
 - [meta] add `auto-changelog` [`7b43310`](https://github.com/inspect-js/available-typed-arrays/commit/7b43310be76f00fe60b74a2fd6d0e46ac1d01f3e)
-- [meta] add "exports" [`5942917`](https://github.com/inspect-js/available-typed-arrays/commit/5942917aafb56c6bce80f01b7ae6a9b46bc72c69)
 - [Tests] add `npm run lint` [`dedfbc1`](https://github.com/inspect-js/available-typed-arrays/commit/dedfbc1592f86ac1636267d3965f2345df43815b)
 - [Tests] use shared travis-ci configs [`c459d78`](https://github.com/inspect-js/available-typed-arrays/commit/c459d78bf2efa9d777f88599ae71a796dbfcb70f)
 - Only apps should have lockfiles [`d294668`](https://github.com/inspect-js/available-typed-arrays/commit/d294668422cf35f5e7716a85bfd204e62b01c056)
