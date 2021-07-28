@@ -17,7 +17,7 @@ var possibleNames = [
 module.exports = function availableTypedArrays() {
 	var out = [];
 	for (var i = 0; i < possibleNames.length; i++) {
-		if (typeof global[possibleNames[i]] === 'function') {
+		if (typeof globalThis[possibleNames[i]] === 'function') {
 			out[out.length] = possibleNames[i];
 		}
 	}
