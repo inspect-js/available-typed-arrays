@@ -5,13 +5,7 @@
 	"main": "index.js",
 	"type": "commonjs",
 	"exports": {
-		".": [
-			{
-				"default": "./index.js"
-			},
-			"./index.js"
-		],
-		"./package": "./package.json",
+		".": "./index.js",
 		"./package.json": "./package.json"
 	},
 	"sideEffects": false,
