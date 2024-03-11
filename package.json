@@ -71,8 +71,8 @@
 		"npmignore": "^0.3.1",
 		"nyc": "^10.3.2",
 		"safe-publish-latest": "^2.0.0",
-		"tape": "^5.7.4",
-		"typescript": "^5.4.0-dev.20240131"
+		"tape": "^5.7.5",
+		"typescript": "next"
 	},
 	"auto-changelog": {
 		"output": "CHANGELOG.md",
