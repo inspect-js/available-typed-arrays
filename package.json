@@ -64,6 +64,7 @@
 		"@types/tape": "^5.8.1",
 		"array.prototype.every": "^1.1.7",
 		"auto-changelog": "^2.5.0",
+		"encoding": "^0.1.13",
 		"eslint": "=8.8.0",
 		"evalmd": "^0.0.19",
 		"in-publish": "^2.0.1",
