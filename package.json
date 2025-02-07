@@ -89,6 +89,6 @@
 		]
 	},
 	"dependencies": {
-		"possible-typed-array-names": "^1.0.0"
+		"possible-typed-array-names": "^1.1.0"
 	}
 }
